@@ -1,7 +1,7 @@
 # cla3_pps
 LIBRARY MANAGEMENT SYSTEM
 
-Group Project OBJECTIVE:
+OBJECTIVE:
 
 To make a library management system for handling of data and managing day to day operations.
 
