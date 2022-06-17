@@ -4,9 +4,9 @@
 struct library
 {
  	char bk_name[30];
-char author[30];
-int pages;
-float price;
+  char author[30];
+  int pages;
+  float price;
 };
 
 int main()
